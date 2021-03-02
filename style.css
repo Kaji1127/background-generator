@@ -6,7 +6,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	letter-spacing: 0.5em;
-	background: linear-gradient(to right, red, yellow); /* Standard syntax */
+	background: linear-gradient(to right bottom, red, yellow);
 }
 .container {
 	display: flex;
@@ -46,7 +46,7 @@ h2 {
 	font-weight: normal;
 }
 
-h3 {
+#current-color {
 	margin: 0;
 	padding: 0;
 	text-align: center;
