@@ -33,7 +33,7 @@ h1 {
 	cursor: pointer;
 }
 
-.color-random {
+#color-random {
 	padding: 10px 20px;
 	font-weight: bold;
 	background-color: #eee;
